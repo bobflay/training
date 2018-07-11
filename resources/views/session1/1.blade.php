@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>title is set by mike</title>
 </head>
-<body>
+
 
     <div id="root">
 
