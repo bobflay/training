@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Computed Properties</title>
+    <title>Computed Propeperties modified by mazen</title>
 </head>
 <body>
     <div id="root">
