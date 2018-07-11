@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>title is set by hassan houry</title>
 
     <style type="text/css">
         .color-red{
