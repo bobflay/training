@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <title>title is set by mike</title>
     <title></title>
 
     <meta charset="utf-8" value="test file">
 
 </head>
-<body>
+
 
     <div id="root">
 
