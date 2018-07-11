@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>title is set by julie<title>
 </head>
 <body>
     <div id="root">
-    	<task-list></task-list>
+	<task-list>go to the store</task-list>
+	<task-list>go to bank</task-list>
+	<task-list>go to work</task-list>
         
     </div>
 
